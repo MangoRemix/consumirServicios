@@ -17,7 +17,7 @@
     "name": "Estefani pico",
     "username": "estefico",
     "email": "Sherwood@rosamond.me",
-    },
+    }
   ],
   "posts": [
     { "id": 1, "title": "Entrar con el pie derecho.", "body": "Esto es una prueba inicial para flutter apps", "userId": 1},
